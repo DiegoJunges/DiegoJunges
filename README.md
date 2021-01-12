@@ -21,7 +21,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 🏆 My favorite challenge is learn something new everyday;
+- 🏆 My favorite challenge is learn something new everyday(ps: currently studying about 10 hours/day);
 
 ### Where to find me:
 
