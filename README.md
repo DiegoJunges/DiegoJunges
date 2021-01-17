@@ -25,13 +25,13 @@
 
 ### About me
 
-- 👩🏻‍🚀 I'm a university student of Systems and Development Computer Technology/Software;
+- 👨🏻‍🚀 I'm a university student of Systems and Development Computer Technology/Software;
 
-- 👩🏻‍💻 I’m a working on a Surf Forecast project :wink:;
+- 👨🏻‍💻 I’m a working on a Surf Forecast project :wink:;
 
 - 🌱 I’m currently learning about microservices and Serverless Framework; 
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, If I can I'll help you;
 
 - 🏆 My favorite challenge is learn something new everyday(ps: currently studying about 10 hours/day);
 
