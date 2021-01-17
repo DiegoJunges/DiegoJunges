@@ -1,17 +1,17 @@
-# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045833/768/bigsmile.gif?1471045833" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
+<img align="right" width="40%" src="https://giphy.com/gifs/beautiful-magic-stars-24C2paIV0IBEY" alt="Starry sky" />
 
-### Welcome to my page!
+### You are welcome!
 <p>
-  I'm Diego, JavaScript developer from 
+  I'm Diego, JavaScript Full-Stack developer from 
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 
 <br/>
 
-### Talking about Personal Stuffs
+### About me
 
 - 👩🏻‍🚀 I'm a university student of Systems and Development Computer Technology/Software;
 
@@ -23,10 +23,10 @@
 
 - 🏆 My favorite challenge is learn something new everyday(ps: currently studying about 10 hours/day);
 
-### Where to find me:
+### How you can find me:
 
 <a href="https://www.linkedin.com/in/diego-junges/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" /></code>
 </a>
 
 <a href="mailto:diegojunges@hotmail.com">
