@@ -1,6 +1,6 @@
-# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045833/768/bigsmile.gif?1471045833" alt="Sunglasses emoji" />
+# Thanks fo visiting my repository <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045833/768/bigsmile.gif?1471045833" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://giphy.com/gifs/beautiful-magic-stars-24C2paIV0IBEY" alt="Starry sky" />
+<img align="right" width="40%" src="https://media.giphy.com/media/24C2paIV0IBEY/giphy.gif" alt="Starry sky" />
 
 ### You are welcome!
 <p>
@@ -17,7 +17,7 @@
 
 - 👩🏻‍💻 I’m a working on a Surf Forecast project :wink:;
 
-- 🌱 I’m currently learning about microservices and Serverless Framework on AWS; 
+- 🌱 I’m currently learning about microservices and Serverless Framework; 
 
 - 💬 Ask me about anything, I am happy to help;
 
@@ -26,18 +26,18 @@
 ### How you can find me:
 
 <a href="https://www.linkedin.com/in/diego-junges/">
-  <code><img alt="My linkedin" width="28" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" /></code>
+  <code><img alt="My linkedin" width="28" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" /></code>
 </a>
 
 <a href="mailto:diegojunges@hotmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" /></code>
 </a>
 
 <br/><br/>
 
 ## My Development Stack
 
-**Application and Data**
+**Languages and tools**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -60,6 +60,7 @@
 **DevOps**
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+<code><a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" height="32"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 
