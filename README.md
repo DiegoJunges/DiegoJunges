@@ -101,7 +101,7 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegojunges&show_icons=true&locale=en&layout=compact" alt="diegojunges" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegojunges&show_icons=true&locale=en&layout=compact" alt="diegojunges" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegojunges&show_icons=true&locale=en" alt="diegojunges" /></p>
 
