@@ -1,4 +1,4 @@
-# Thanks fo visiting my repository <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045833/768/bigsmile.gif?1471045833" alt="Sunglasses emoji" />
+# Thanks fo visiting my repository <img width="30" src="https://emojis.slackmojis.com/emojis/images/1584725315/8264/blob-sign-yes.gif?1584725315" alt="Yes emoji" />
 
 <img align="right" width="40%" src="https://media.giphy.com/media/24C2paIV0IBEY/giphy.gif" alt="Starry sky" />
 
