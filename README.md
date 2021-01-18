@@ -54,7 +54,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" /> </code>
 <code><img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="express" height="32"/></code>
-<code><img height="32" src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png" alt="nestjs" /></code> 
+<code><img height="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" /></code> 
 
 **Mobile app development**
 
