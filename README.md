@@ -33,7 +33,7 @@
 
 - 💬 Ask me about anything, If I can I'll help you;
 
-- 🏆 My favorite challenge is learn something new everyday(ps: currently studying about 10 hours/day);
+- 🏆 My favorite challenge is learn something new everyday;
 
 ## My Development Stack
 
