@@ -4,7 +4,7 @@
 
 ### You are welcome!
 <p>
-  I'm Diego, JavaScript Full-Stack developer from 
+  I'm Diego, JavaScript/Golang Full-Stack developer from 
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
