@@ -47,14 +47,13 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="32"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png?width=256&s=3ee4c30d4736dc4024319d53c20c6dacb5d11bb0" alt="nextjs" width="32" height="32"/></code>
 
 **Backend development**
-
+<code><img height="32" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golangIcon"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" /> </code>
 <code><img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="express" height="32"/></code>
-<code><img height="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" /></code> 
+<code><img height="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" /></code>
 
 **Mobile app development**
 
