@@ -5,7 +5,7 @@
 ### You are welcome!
 <p>
   I'm Diego, JavaScript/Golang Full-Stack developer from 
-  <img width="16" src="https://freepikpsd.com/flag-of-brazil-national-flag-flag-of-the-united-states-flag-brazil-flag-png/235054/" alt="Brazil" />
+  <img width="16" src="https://seeklogo.com/images/F/flag-of-brazil-logo-94D3E82278-seeklogo.com.png" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 
