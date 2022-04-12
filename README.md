@@ -27,9 +27,9 @@
 
 - 👨🏻‍🚀 I'm a university student of Systems and Development Computer Technology/Software;
 
-- 👨🏻‍💻 I’m a working on a Surf Forecast project :wink:;
+- 👨🏻‍💻 I’m working on Accenture :wink:;
 
-- 🌱 I’m currently learning about microservices and Serverless Framework; 
+- 🌱 I’m currently learning about microservices and GRPC with Golang; 
 
 - 💬 Ask me about anything, If I can I'll help you;
 
