@@ -29,7 +29,7 @@
 
 - 👨🏻‍💻 I’m working on Accenture :wink:;
 
-- 🌱 I’m currently learning about microservices and GRPC with Golang; 
+- 🌱 I’m currently learning about KAFKA and GRPC with Golang; 
 
 - 💬 Ask me about anything, If I can I'll help you;
 
