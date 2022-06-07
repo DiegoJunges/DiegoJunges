@@ -27,7 +27,7 @@
 
 - 👨🏻‍🚀 I'm a university student of Systems and Development Computer Technology/Software;
 
-- 👨🏻‍💻 I’m working on Accenture :wink:;
+- 👨🏻‍💻 I’m working on PicPay :wink:;
 
 - 🌱 I’m currently learning about KAFKA and GRPC with Golang; 
 
