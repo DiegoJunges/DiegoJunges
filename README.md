@@ -35,68 +35,7 @@
 
 - 🏆 My favorite challenge is learn something new everyday;
 
-## My Development Stack
 
-**Languages**
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golangIcon"/></code>
-
-**Frontend development**
-
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="32"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-
-**Backend development**
-
-<code><img height="32" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golangIcon"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" /> </code>
-<code><img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="express" height="32"/></code>
-<code><img height="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" /></code>
-
-**Mobile app development**
-
-<code><img height="32" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" /> </a></code>
-
-**Database**
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" /> </code>
-
-**Testing**
-
-<code><img height="32" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" /></code>
-
-**Utilities**
-
-<code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /> </a></code>
-<code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="32"/></code>
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-
-**DevOps**
-
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" height="32"/></code>
-<code><img src="https://www.starburstdata.com/wp-content/uploads/2020/06/aws-logo-white-1.png" alt="aws" height="32"/></code>
-<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1471543628/1047/digitalocean.png?1471543628" alt="digitalocean"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-
-**Business**
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
-
-**Others**
-
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/> </code>
-<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1470349963/724/vsonline.png?1470349963" alt="vscode"/></code>
-
-<br/>
 
 ## Coding Activity
 
