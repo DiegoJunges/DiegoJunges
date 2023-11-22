@@ -23,20 +23,6 @@
 
 <br/><br/>
 
-### About me
-
-- 👨🏻‍🚀 I'm a university student of Systems and Development Computer Technology/Software;
-
-- 👨🏻‍💻 I’m working at PicPay :wink:;
-
-- 🌱 I’m currently learning about KAFKA and GRPC with Golang; 
-
-- 💬 Ask me about anything, If I can I'll help you;
-
-- 🏆 My favorite challenge is learn something new everyday;
-
-
-
 ## Coding Activity
 
 <br/>
