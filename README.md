@@ -4,7 +4,7 @@
 
 ### You are welcome!
 <p>
-  I'm Diego, JavaScript/Golang developer from 
+  I'm Diego, Golang developer from 
   <img width="16" src="https://seeklogo.com/images/F/flag-of-brazil-logo-94D3E82278-seeklogo.com.png" alt="Brazil" />
   <b>Brazil</b>.
 </p>
